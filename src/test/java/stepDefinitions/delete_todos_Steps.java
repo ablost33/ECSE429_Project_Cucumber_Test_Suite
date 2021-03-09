@@ -87,6 +87,7 @@ public class delete_todos_Steps {
 		ResponseBody body3 = GETRes.getBody();
 		String bodyAsString3 = body3.asString();	
 		Assert.assertEquals(bodyAsString3.contains(""), true, "Body response from creating category relationship is invalid");
+		url = "http://localhost:4567/todos/"+ ID;
 	}
 
 }
