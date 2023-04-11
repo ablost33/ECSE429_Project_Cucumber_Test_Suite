@@ -1,4 +1,7 @@
 # ECSE429_ProjectB_Cucumber_Test_Suit
+This is a project I did while taking McGill ECSE429 course on software testing. 
+
+
 Testing Suite implemented using Cucumber and REST Assured for testing of API Thingifier version 1.5, Copyright Alan Richardson, Compendium Developments Ltd 2020
 
 
